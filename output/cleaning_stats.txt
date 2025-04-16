@@ -1,5 +1,5 @@
 Data Cleaning Results:
-- Removed duplicates using ROW_NUMBER() (check SQL for count).
+- Removed duplicates using ROW_NUMBER().
 - Standardized industries: Merged "crypto%" into "crypto".
 - Fixed NULL industries by joining same-company records.
 - Formatted dates with str_to_date().
