@@ -1,0 +1,4 @@
+Data Cleaning Results:
+- Removed 15 duplicate rows.
+- Fixed 20 NULL industries.
+- Standardized dates for 100 records.
