@@ -14,11 +14,12 @@ SQL project to clean and prepare layoffs data for analysis.
 
 ## 🚀 How to Use
 1. Run `SQL(1).sql` in your MySQL environment  
-2. View cleaned data samples in the `/output` folder:  
-   - `cleaned_sample.csv` (data preview)  
-   - `cleaning_stats.txt` (summary of changes)  
+2. View results in `/output` folder:  
+   - `cleaned_sample.csv` (5-row data preview)  
+   - `cleaning_stats.txt` (cleaning summary)  
 
 ## 💡 Skills Demonstrated
-- SQL data cleaning  
-- Handling NULLs and duplicates  
+- Advanced SQL data cleaning  
+- Handling NULLs/duplicates  
 - Data standardization  
+- Date formatting  
