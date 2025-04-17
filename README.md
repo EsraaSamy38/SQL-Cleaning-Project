@@ -2,15 +2,16 @@
 
 SQL project to clean and prepare layoffs data for analysis.
 
-## 🔧 Key Cleaning Steps
-1. **Removed duplicates** using `ROW_NUMBER()` window function  
-2. **Standardized text data**:  
+## 🧹 Key Cleaning Steps
+1. **Removed duplicates**:
+   - using `ROW_NUMBER()` window function  
+3. **Standardized text data**:  
    - Trimmed whitespace from company names  
    - Consolidated "crypto%" variations to "crypto"  
-3. **Fixed NULL values**:  
+4. **Fixed NULL values**:  
    - Populated missing industries by joining same-company records  
-4. **Date formatting**:  
-   - Converted text dates to DATE type using `str_to_date()`  
+5. **Date formatting**:  
+   - Converted text dates to DATE type using `str_to_date()`
 
 ## 🚀 How to Use
 1. Run `SQL(1).sql` in your MySQL environment  
