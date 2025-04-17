@@ -15,8 +15,7 @@ SQL project to clean and prepare layoffs data for analysis.
 
 ## 🚀 How to Use
 1. Run `SQL(11).sql` in MySQL Workbench  
-2. View results in [`output`]([outpu/cleaned_sample.csv](https://github.com/EsraaSamy38/SQL-Data-Cleaning-Project/tree/main/output))📄
-folder:  
+2. View results in [`output`](output/)📄 folder:  
    - `cleaned_sample.csv` (5-row data preview)  
    - `cleaning_stats.txt` (cleaning summary)  
 
