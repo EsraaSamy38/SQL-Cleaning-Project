@@ -29,7 +29,7 @@ SQL project to clean and prepare layoffs data for analysis.
       <em> Rows with null values</em>
     </td>
     <td align="center">
-      <img src="images/null 2.png" width="360"/><br/>
+      <img src="images/null 22.png" width="360"/><br/>
       <em> Null values handled</em>
     </td>
   </tr>
@@ -40,7 +40,7 @@ SQL project to clean and prepare layoffs data for analysis.
       <em> Duplicate records</em>
     </td>
     <td align="center">
-      <img src="images/duplicat2.png" width="360"/><br/>
+      <img src="images/duplicat22.png" width="360"/><br/>
       <em> Duplicates removed</em>
     </td>
   </tr>
@@ -51,7 +51,7 @@ SQL project to clean and prepare layoffs data for analysis.
       <em> Inconsistent industry names</em>
     </td>
     <td align="center">
-      <img src="images/Standardization2.png" width="200"/><br/>
+      <img src="images/Standardization22.png" width="200"/><br/>
       <em> Standardized industry labels</em>
     </td>
   </tr>
