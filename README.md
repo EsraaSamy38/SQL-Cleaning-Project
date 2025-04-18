@@ -25,16 +25,16 @@ SQL project to clean and prepare layoffs data for analysis.
     <th>After</th>
   </tr>
   <tr>
-    <td><img src="images/null1.png" width="250"/></td>
-    <td><img src="images/null 2.png" width="250"/></td>
+    <td><img src="images/null1.png" width="350"/></td>
+    <td><img src="images/null 2.png" width="350"/></td>
   </tr>
   <tr>
-    <td><img src="images/duplicate1.png" width="250"/></td>
-    <td><img src="images/duplicat2.png" width="250"/></td>
+    <td><img src="images/duplicate1.png" width="350"/></td>
+    <td><img src="images/duplicat2.png" width="350"/></td>
   </tr>
   <tr>
-    <td><img src="images/Standardization1.png" width="100"/></td>
-    <td><img src="images/Standardization2.png" width="100"/></td>
+    <td><img src="images/Standardization1.png" width="150"/></td>
+    <td><img src="images/Standardization2.png" width="150"/></td>
   </tr>
 </table>
 
