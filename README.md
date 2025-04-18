@@ -16,10 +16,10 @@ SQL project to clean and prepare layoffs data for analysis.
 
 ## 🖼️ Sample Data Preview (Before & After Cleaning)
 #### 🔹 Before Cleaning  
-![Before Cleaning](images/duplicat2.png)
+![Before Cleaning](images/duplicate1.png)
 
 #### 🔹 After Cleaning  
-![After Cleaning](images/duplicate1.png)
+![After Cleaning](images/duplicat2.png)
 
 
 ## 🚀 How to Use
