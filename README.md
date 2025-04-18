@@ -15,8 +15,23 @@ SQL project to clean and prepare layoffs data for analysis.
 
 
 ## 📷 Visual Examples (Before & After)         
-#### 🔹 | **Before 1** | **Before 2** | **Before 3** |
-| ![Before 1](images/null 1.png) | ![Before 2](images/duplicate1.png) | ![Before 3](images/Standardization1.png) |
+
+
+<!-- Row 1: Before Cleaning -->
+<p><strong>🔹Before Cleaning</strong></p>
+<p align="center">
+  <img src="images/null1.png" width="440"/>
+  <img src="images/duplicate1.png" width="445"/>
+  <img src="images/Standardization1.png" width="100"/>
+</p>
+
+<!-- Row 2: After Cleaning -->
+<p><strong>🔹After Cleaning</strong></p>
+<p align="center">
+  <img src="images/after1.png" width="200"/>
+  <img src="images/after2.png" width="200"/>
+  <img src="images/after3.png" width="200"/>
+</p>
 
 
 
