@@ -16,27 +16,48 @@ SQL project to clean and prepare layoffs data for analysis.
 
 ## 📷 Visual Examples (Before & After)         
 
-
-
+<h3>📷 Visual Examples (Before vs After)</h3>
 
 <table>
   <tr>
     <th>Before</th>
     <th>After</th>
   </tr>
+
   <tr>
-    <td><img src="images/null1.png" width="350"/></td>
-    <td><img src="images/null 2.png" width="350"/></td>
+    <td align="center">
+      <img src="images/null1.png" width="300"/><br/>
+      <em>Before: Rows with null values</em>
+    </td>
+    <td align="center">
+      <img src="images/null2.png" width="300"/><br/>
+      <em>After: Null values handled</em>
+    </td>
   </tr>
+
   <tr>
-    <td><img src="images/duplicate1.png" width="350"/></td>
-    <td><img src="images/duplicat2.png" width="350"/></td>
+    <td align="center">
+      <img src="images/duplicate1.png" width="300"/><br/>
+      <em>Before: Duplicate records</em>
+    </td>
+    <td align="center">
+      <img src="images/duplicate2.png" width="300"/><br/>
+      <em>After: Duplicates removed</em>
+    </td>
   </tr>
+
   <tr>
-    <td><img src="images/Standardization1.png" width="150"/></td>
-    <td><img src="images/Standardization2.png" width="150"/></td>
+    <td align="center">
+      <img src="images/Standardization1.png" width="200"/><br/>
+      <em>Before: Inconsistent formatting</em>
+    </td>
+    <td align="center">
+      <img src="images/Standardization2.png" width="200"/><br/>
+      <em>After: Standardized formatting</em>
+    </td>
   </tr>
 </table>
+
 
 
 
