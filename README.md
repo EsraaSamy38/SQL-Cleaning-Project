@@ -19,8 +19,8 @@ SQL project to clean and prepare layoffs data for analysis.
 
 <table>
   <tr>
-    <th>Before</th>
-    <th>After</th>
+    <th>🧼Before🧼</th>
+    <th>✨After✨</th>
   </tr>
 
   <tr>
