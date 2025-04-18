@@ -25,22 +25,22 @@ SQL project to clean and prepare layoffs data for analysis.
 
   <tr>
     <td align="center">
-      <img src="images/null1.png" width="300"/><br/>
+      <img src="images/null1.png" width="360"/><br/>
       <em> Rows with null values</em>
     </td>
     <td align="center">
-      <img src="images/null 2.png" width="300"/><br/>
+      <img src="images/null 2.png" width="360"/><br/>
       <em> Null values handled</em>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="images/duplicate1.png" width="300"/><br/>
+      <img src="images/duplicate1.png" width="360"/><br/>
       <em> Duplicate records</em>
     </td>
     <td align="center">
-      <img src="images/duplicat2.png" width="300"/><br/>
+      <img src="images/duplicat2.png" width="360"/><br/>
       <em> Duplicates removed</em>
     </td>
   </tr>
