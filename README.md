@@ -21,8 +21,8 @@ SQL project to clean and prepare layoffs data for analysis.
 <p><strong>🔹Before Cleaning</strong></p>
 <p align="center">
   <img src="images/null1.png" width="440"/>
-  <img src="images/duplicate1.png" width="445"/>
-  <img src="images/Standardization1.png" width="100"/>
+  <img src="images/duplicate1.png" width="455"/>
+  
 </p>
 
 <!-- Row 2: After Cleaning -->
