@@ -27,5 +27,5 @@ SQL project to clean and prepare layoffs data for analysis.
 
 ## 📁 Data Source
 
-- [Download Dataset (Excel)](Dataset.xlsx) 📄 
+- [Download Layoffs_Dataset (Excel)](Dataset.xlsx) 📄 
 This dataset includes information about Layoffing of employees in companies over 3 years (2020-2023)
