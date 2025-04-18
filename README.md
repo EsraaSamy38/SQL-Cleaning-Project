@@ -17,7 +17,7 @@ SQL project to clean and prepare layoffs data for analysis.
 ## 📷 Visual Examples (Before & After)         
 
 
-<h3>📷 Visual Examples (Before vs After)</h3>
+
 
 <table>
   <tr>
