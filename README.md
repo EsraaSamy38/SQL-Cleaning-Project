@@ -14,12 +14,10 @@ SQL project to clean and prepare layoffs data for analysis.
    - Converted text dates to DATE type using `str_to_date()`
 
 
-## 🖼️ Sample Data Preview (Before & After Cleaning)
-#### 🔹 Before Cleaning  
-![Before Cleaning](images/duplicate1.png)
+## 📷 Visual Examples (Before & After)         
+#### 🔹 | **Before 1** | **Before 2** | **Before 3** |
+| ![Before 1](images/null 1.png) | ![Before 2](images/duplicate1.png) | ![Before 3](images/Standardization1.png) |
 
-#### 🔹 After Cleaning  
-![After Cleaning](images/duplicat2.png)
 
 
 ## 🚀 How to Use
