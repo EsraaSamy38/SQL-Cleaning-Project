@@ -16,7 +16,6 @@ SQL project to clean and prepare layoffs data for analysis.
 
 ## 📷 Visual Examples (Before & After)         
 
-<h3>📷 Visual Examples (Before vs After)</h3>
 
 <table>
   <tr>
@@ -27,33 +26,33 @@ SQL project to clean and prepare layoffs data for analysis.
   <tr>
     <td align="center">
       <img src="images/null1.png" width="300"/><br/>
-      <em>Before: Rows with null values</em>
+      <em> Rows with null values</em>
     </td>
     <td align="center">
-      <img src="images/null2.png" width="300"/><br/>
-      <em>After: Null values handled</em>
+      <img src="images/null 2.png" width="300"/><br/>
+      <em> Null values handled</em>
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <img src="images/duplicate1.png" width="300"/><br/>
-      <em>Before: Duplicate records</em>
+      <em> Duplicate records</em>
     </td>
     <td align="center">
-      <img src="images/duplicate2.png" width="300"/><br/>
-      <em>After: Duplicates removed</em>
+      <img src="images/duplicat2.png" width="300"/><br/>
+      <em> Duplicates removed</em>
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <img src="images/Standardization1.png" width="200"/><br/>
-      <em>Before: Inconsistent formatting</em>
+      <em> Inconsistent industry names</em>
     </td>
     <td align="center">
       <img src="images/Standardization2.png" width="200"/><br/>
-      <em>After: Standardized formatting</em>
+      <em> Standardized industry labels</em>
     </td>
   </tr>
 </table>
