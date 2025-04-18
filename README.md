@@ -13,6 +13,15 @@ SQL project to clean and prepare layoffs data for analysis.
 5. **Date formatting**:  
    - Converted text dates to DATE type using `str_to_date()`
 
+
+## 🖼️ Sample Data Preview (Before & After Cleaning)
+#### 🔹 Before Cleaning  
+![Before Cleaning](images/duplicat2.png)
+
+#### 🔹 After Cleaning  
+![After Cleaning](images/duplicate1.png)
+
+
 ## 🚀 How to Use
 1. Run `SQL(11).sql` in MySQL Workbench  
 2. View results in `output`📄 folder:  
