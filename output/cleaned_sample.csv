@@ -1,11 +1,6 @@
 company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions
-Airbnb,San Francisco,Hospitality,1900,25%,2020-05-05,Post-IPO,United States,4500
-Meta,Menlo Park,Social Media,11000,13%,2022-11-09,Post-IPO,United States,50000
-Klarna,Stockholm,FinTech,700,10%,2022-06-01,Series D,Sweden,639
-Better.com,New York,Real Estate,3000,25%,2021-12-01,Series E,United States,1000
-Uber,San Francisco,Transportation,3700,14%,2020-05-18,Post-IPO,United States,2480
-Shopify,Ottawa,E-commerce,1000,10%,2022-07-26,Post-IPO,Canada,122
-Twitter,San Francisco,Social Media,3700,50%,2022-11-04,Post-IPO,United States,1000
-Bolt,San Francisco,FinTech,250,30%,2022-05-25,Series D,United States,393
-Netflix,Los Gatos,Streaming,300,5%,2022-06-23,Post-IPO,United States,10000
-Zillow,Seattle,Real Estate,160,5%,2021-11-02,Post-IPO,United States,2450
+Airbnb,San Francisco,Travel,1900,0.20,2022-05-25,Series F,United States,6400
+Crypto.com,Los Angeles,Crypto,500,0.10,2022-06-15,Series D,United States,600
+Robinhood,Menlo Park,Financial Services,340,0.09,2022-04-28,IPO,United States,6300
+Better.com,New York,Real Estate,900,0.15,2022-03-30,Series E,United States,1200
+Peloton,New York,Fitness,2800,0.25,2022-02-08,Public,United States,2500
