@@ -3,7 +3,7 @@
 
 🔁 Duplicates Removed:
 ▫️Used ROW_NUMBER() with PARTITION BY on all columns to identify exact duplicate rows.
-▫️⚡Total duplicate rows removed: [5]
+▫️⚡ Total duplicate rows removed: [5]
 
 🔡 Text Standardization:
 ▫️ Trimmed extra whitespace from company names.
@@ -16,12 +16,12 @@
 
 🧮 Null Handling:
 ▫️ Removed rows with nulls in critical columns (total_laid_off, percenge_laid_off ).
-▫️⚡Total null rows removed: [361]
+▫️⚡ Total null rows removed: [361]
 
 📌 Final Dataset Shape:
-▫️⚡Total rows before cleaning: [2316]
-▫️⚡Total rows after cleaning: [1617]
-▫️⚡Final columns: 9 (company, location, industry, total_laid_off, percentage_laid_off, date, stage, country, 
+▫️⚡ Total rows before cleaning: [2316]
+▫️⚡ Total rows after cleaning: [1617]
+▫️⚡ Final columns: 9 (company, location, industry, total_laid_off, percentage_laid_off, date, stage, country, 
 funds_raised_millions)
 
 ✅ Results:
