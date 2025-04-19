@@ -2,26 +2,27 @@
 
 
 🔁 Duplicates Removed:
-- Used ROW_NUMBER() with PARTITION BY on all columns to identify exact duplicate rows.
-- Total duplicate rows removed: [5]
+▫️Used ROW_NUMBER() with PARTITION BY on all columns to identify exact duplicate rows.
+▫️⚡Total duplicate rows removed: [5]
 
 🔡 Text Standardization:
-- Trimmed extra whitespace from company names.
-- Standardize industry names variations (e.g.,"CryptoCurrency" → "Crypto").
-- Cleaned country names by removing trailing periods (e.g., "United States." → "United States").
-- Total Standardization rows cleand: company[11] / industry[3] / country[4]
+▫️ Trimmed extra whitespace from company names.
+▫️ Standardize industry names variations (e.g.,"CryptoCurrency" → "Crypto").
+▫️ Cleaned country names by removing trailing periods (e.g., "United States." → "United States").
+▫️⚡ Total Standardization rows cleand: company[11] / industry[3] / country[4]
 
 📅 Formatting:
-- Converted all dates to standard format `YYYY-MM-DD` for consistency.
+▫️ Converted all dates to standard format `YYYY-MM-DD` for consistency.
 
 🧮 Null Handling:
-- Removed rows with nulls in critical columns (total_laid_off, percenge_laid_off ).
-- Total null rows removed: [361]
+▫️ Removed rows with nulls in critical columns (total_laid_off, percenge_laid_off ).
+▫️⚡Total null rows removed: [361]
 
 📌 Final Dataset Shape:
-- Total rows before cleaning: [2316]
-- Total rows after cleaning: [1617]
-- Final columns: 9 (company, location, industry, total_laid_off, percentage_laid_off, date, stage, country, funds_raised_millions)
+▫️⚡Total rows before cleaning: [2316]
+▫️⚡Total rows after cleaning: [1617]
+▫️⚡Final columns: 9 (company, location, industry, total_laid_off, percentage_laid_off, date, stage, country, 
+funds_raised_millions)
 
 ✅ Results:
-- Dataset now clean, standardized, and ready for insightful analysis and visualization.
+▫️ Dataset now clean, standardized, and ready for insightful analysis and visualization.
