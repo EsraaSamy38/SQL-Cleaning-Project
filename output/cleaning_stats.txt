@@ -1,5 +1,5 @@
 🧼 SQL Layoffs Data Cleaning Summary 🧼
-
+ 
 
 🔁 Duplicates Removed:
 ▫️Used ROW_NUMBER() with PARTITION BY on all columns to identify exact duplicate rows.
