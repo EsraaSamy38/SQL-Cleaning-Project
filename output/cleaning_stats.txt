@@ -16,6 +16,7 @@
 
 🧮 Null Handling:
 ▫️ Removed rows with nulls in critical columns (total_laid_off, percenge_laid_off ).
+▫️ Populated missing industries by joining same-company recordsز
 ▫️⚡ Total null rows removed: [361]
 
 📌 Final Dataset Shape:
