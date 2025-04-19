@@ -1,6 +1,6 @@
 company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions
 Airbnb,SF Bay Area,Travel,1900,0.25,2020-05-05,Private Equity,United States,5400
-Amazon,Seattle	Retail,8000,0.02,2023-01-04,Post-IPO,United States,108
+Amazon,Seattle,Retail,8000,0.02,2023-01-04,Post-IPO,United States,108
 Google,SF Bay Area,Consumer,12000,0.06,2023-01-20,Post-IPO,United States,26
 Meta,SF Bay Area,Consumer,11000,0.13,2022-11-09,Post-IPO,United States,26000
 Microsoft,Seattle,Other,10000,0.05,2023-01-18,Post-IPO,United States,1
