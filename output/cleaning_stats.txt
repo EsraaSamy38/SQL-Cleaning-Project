@@ -1,6 +1,28 @@
-Data Cleaning Results:
-- Removed duplicates using ROW_NUMBER().
-- Standardized industries: Merged "crypto%" into "crypto".
-- Fixed NULL industries by joining same-company records.
-- Formatted dates with str_to_date().
-- Trimmed whitespace from company/country names.
+🧹 SQL Layoffs Data Cleaning Summary
+
+📊 Original Data Source:
+- Dataset initially loaded into a staging table to preserve raw data.
+
+🔁 Duplicates Removed:
+- Used ROW_NUMBER() with PARTITION BY on all columns to identify exact duplicate rows.
+- Total duplicate rows removed: [insert actual number after counting, e.g., 120]
+
+🔡 Text Standardization:
+- Trimmed extra whitespace from company names.
+- Normalized inconsistent industry names (e.g., "crypto tech", "CryptoCurrency" → "Crypto").
+- Cleaned country names by removing trailing periods (e.g., "United States." → "United States").
+
+📅 Format Corrections:
+- Converted all dates to standard format `YYYY-MM-DD` for consistency.
+
+🧮 Null Handling:
+- Removed rows with nulls in critical columns (total_laid_off, company, location, etc.).
+- Total null rows removed: [insert actual number]
+
+📌 Final Dataset Shape:
+- Total rows before cleaning: [insert original count]
+- Total rows after cleaning: [insert cleaned count]
+- Final columns: 9 (company, location, industry, total_laid_off, percentage_laid_off, date, stage, country, funds_raised_millions)
+
+✅ Results:
+- Dataset now clean, standardized, and ready for insightful analysis and visualization.
