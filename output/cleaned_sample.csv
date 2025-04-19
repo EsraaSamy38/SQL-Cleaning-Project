@@ -1,5 +1,5 @@
 company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions
-Airbnb,San Francisco,Travel,1900,0.20,2022-05-25,Series F,United States,6400
+Airbnb,SF Bay Area,Travel,1900,0.25,2020-05-05,Private Equity,United States,5400
 Crypto.com,Los Angeles,Crypto,500,0.10,2022-06-15,Series D,United States,600
 Robinhood,Menlo Park,Financial Services,340,0.09,2022-04-28,IPO,United States,6300
 Better.com,New York,Real Estate,900,0.15,2022-03-30,Series E,United States,1200
