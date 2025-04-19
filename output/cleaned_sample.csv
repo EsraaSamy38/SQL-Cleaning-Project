@@ -1,6 +1,10 @@
 company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions
 Airbnb,SF Bay Area,Travel,1900,0.25,2020-05-05,Private Equity,United States,5400
-Crypto.com,Los Angeles,Crypto,500,0.10,2022-06-15,Series D,United States,600
-Robinhood,Menlo Park,Financial Services,340,0.09,2022-04-28,IPO,United States,6300
-Better.com,New York,Real Estate,900,0.15,2022-03-30,Series E,United States,1200
-Peloton,New York,Fitness,2800,0.25,2022-02-08,Public,United States,2500
+Amazon,	Seattle	Retail,	8000,	0.02,	2023-01-04,	Post-IPO,	United States,	108
+Google,	SF Bay Area,	Consumer,	12000,	0.06,	2023-01-20,	Post-IPO,	United States,	26
+Meta,	SF Bay Area,	Consumer,	11000,	0.13,	2022-11-09,	Post-IPO,	United States,	26000
+Microsoft,	Seattle,	Other,	10000,	0.05,	2023-01-18,	Post-IPO,	United States,	1
+Yahoo,	SF Bay Area,	Consumer,	1600,	0.2	2023-02-09,	Acquired,	United States,	6
+Wildlife, Studios	Sao Paulo,	Consumer,	300, 0.2,	2022-11-28,	Unknown, Brazil, 260
+Peloton,	New York City,	Fitness,	2800,	0.2	,2022-02-08	,Post-IPO	,United States	,1900
+Buenbit	,Buenos Aires	,Crypto,	80,	0.45	,2022-05-23	,Series A,	Argentina	,11
