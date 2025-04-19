@@ -1,4 +1,4 @@
-# Layoffs Data Cleaning Project
+# 🧼Layoffs Data Cleaning - SQL Project
 
 SQL project to clean and prepare layoffs data for analysis.
 
