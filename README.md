@@ -1,6 +1,7 @@
 # 🧼Layoffs Data Cleaning - SQL Project
 
-SQL project to clean and prepare layoffs data for analysis.
+SQL project to clean and prepare layoffs dataset for analysis by removing duplicates, fixing nulls, and standardizing data for analysis.
+
 
 ## 🧹 Key Cleaning Steps
 1. **Removed duplicates**:
