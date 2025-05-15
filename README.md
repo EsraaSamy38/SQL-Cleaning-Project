@@ -5,7 +5,7 @@ SQL project to clean and prepare layoffs dataset for analysis by removing duplic
 
 ## 🧹 Key Cleaning Steps
 1. **Removed duplicates**:
-   - using `ROW_NUMBER()` window function  
+   - Using `ROW_NUMBER()` window function  
 3. **Standardized text data**:  
    - Trimmed whitespace from company names  
    - Consolidated "crypto%" variations to "crypto"  
